@@ -14,6 +14,7 @@
 		BA1CBD6C293F479800D4177F /* API.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BA1CBD6A293F479800D4177F /* API.xcdatamodeld */; };
 		BA1CBD6E293F479A00D4177F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA1CBD6D293F479A00D4177F /* Assets.xcassets */; };
 		BA1CBD71293F479A00D4177F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA1CBD6F293F479A00D4177F /* LaunchScreen.storyboard */; };
+		BA1CBD7B293F4BDC00D4177F /* Sahra Franklin.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1CBD7A293F4BDC00D4177F /* Sahra Franklin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BA1CBD6D293F479A00D4177F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA1CBD70293F479A00D4177F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA1CBD72293F479A00D4177F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA1CBD7A293F4BDC00D4177F /* Sahra Franklin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sahra Franklin.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		BA1CBD55293F479800D4177F = {
 			isa = PBXGroup;
 			children = (
+				BA1CBD7A293F4BDC00D4177F /* Sahra Franklin.swift */,
 				BA1CBD60293F479800D4177F /* API */,
 				BA1CBD5F293F479800D4177F /* Products */,
 			);
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA1CBD7B293F4BDC00D4177F /* Sahra Franklin.swift in Sources */,
 				BA1CBD66293F479800D4177F /* ViewController.swift in Sources */,
 				BA1CBD62293F479800D4177F /* AppDelegate.swift in Sources */,
 				BA1CBD6C293F479800D4177F /* API.xcdatamodeld in Sources */,
